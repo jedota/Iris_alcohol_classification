@@ -8,6 +8,8 @@ This research proposes a method to detect alcohol consumption from a Near-Infra-
 
 A total of 600 images of volunteers not under the influence of alcohol were captured and 2,400 images were taken after each volunteer had ingested 200 ml of alcohol (Images taken in intervals of 15 minutes after consumption). The database was divided into 70\% and 30\% for Training and Testing. The partition is a subject-disjoint database.
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 # Database link
 Request teh dataset to: juan.tapia-farias@h-da.de or jtapiafarias@ing.uchile.cl
 A health committee team evaluated the captured process before it started. A consent form was used to capture images for all the volunteers as requested by the health committee.
