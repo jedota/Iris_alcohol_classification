@@ -19,11 +19,12 @@ A total of 600 images of volunteers not under the influence of alcohol were capt
 Request the dataset to: juan.tapia-farias@h-da.de or jtapiafarias@ing.uchile.cl
 
 A health committee team evaluated the captured process before it started. A consent form was used to capture images for all the volunteers as requested by the health committee.
+</p>
 ICPR 2022 - Data will available in the next days
 
 # Cited
 If you use MAAL dataset, please cite the following paper:
-
+available in the next days
 
 
 # License
