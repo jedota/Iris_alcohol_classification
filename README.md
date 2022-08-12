@@ -19,6 +19,35 @@ A total of 600 images of volunteers not under the influence of alcohol were capt
 Request the dataset to: juan.tapia-farias@h-da.de or jtapiafarias@ing.uchile.cl
 
 A health committee team evaluated the captured process before it started. A consent form was used to capture images for all the volunteers as requested by the health committee.
+
+# Description
+
+- 5 sessions of image capturing were done for each person at intervals of 00, 15, 30, 45 and 60 minutes after having ingested alcohol.
+- There are different people for each folder "Grupo_X". Each one have a folder with the name of the sensors used in the capturing session (LG/Iritech). Each sensor folder have 5 inner folders for each interval (in minutes) in the capturing session.
+- Each folder of each session have a json file which have manual annotations of every region of interest of the eye (pupil, iris, sclera)
+- [VIA v2.0.5](https://www.robots.ox.ac.uk/~vgg/software/via/) was used to label each ROI of the eyes.
+- Each ROI of each image was labeled with distinct figures disposed in VIA program (polygon, ellipse, circle) specified in json files.
+- Polygon figure have a coords set like (x, y) points.
+- Circle figure have the center denoted as (x, y) coord and his radius (r).
+- Ellipse figure have the center denoted as (x, y) coord, the minor and the major radii.
+- File "eye_attributes.json" correspond to region/file attribute of VIA program, needed to identify each ROI.
+
+
+### From image name "E_5_7_0_L_F_N_N_1994_3_2017.bmp" we can extract the following features:
+
+- The number 5 indicates that it belongs to the "Grupo_5" folder.
+- The number 7 indicates that it belongs to the subject 7 of the corresponding group.
+- The number 0 indicates that it belongs to the timeset 0. This number can be (0, 1, 2, 3 or 4) depending on the capturing interval (00, 15, 30, 45 or 60 minutes)
+- The L letter means that is a "Left" eye.
+- The F letter means that is a Female subject.
+- 1994 means the date of birth.
+- The number after date of birth is the corresponding frame of the video.
+- 2017 correspond to the capturing date.
+
+
+# Set split
+- Train, test and validation set are disposed in text files into [set_split](https://github.com/Choapinus/alcohol-db/tree/master/set_split) folder
+
 </p>
 ICPR 2022 - Data will available in the next days
 
