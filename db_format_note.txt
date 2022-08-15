@@ -1,4 +1,4 @@
-- Gemini and IriTech sensors were used for image capturing
+- LG and IriTech sensors were used for image capturing
 - Each folder corresponds to a subject, and each subject have a json containing VIA marks for segmentation tasks.
 - The structure of the json objects is explained below:
 
