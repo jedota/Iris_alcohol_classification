@@ -44,6 +44,8 @@ A health committee team evaluated the captured process before it started. A cons
 - The number after date of birth is the corresponding frame of the video.
 - 2017 correspond to the capturing date.
 
+![image](https://raw.githubusercontent.com/jedota/Iris_alcohol_classification/main/static/seg_image.png?token=GHSAT0AAAAAABSXZOPS6AZQBTYRJF72OGYGYX3VCHA)
+
 
 # Set split
 - Train, test and validation set are disposed in text files into [set_split](https://github.com/Choapinus/alcohol-db/tree/master/set_split) folder
