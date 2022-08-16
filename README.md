@@ -20,7 +20,7 @@ Request the dataset to: juan.tapia-farias@h-da.de or jtapiafarias@ing.uchile.cl
 
 A health committee team evaluated the captured process before it started. A consent form was used to capture images for all the volunteers as requested by the health committee.
 
-# Description
+# Description.
 
 - 5 sessions of image capturing were done for each person at intervals of 00, 15, 30, 45 and 60 minutes after having ingested alcohol.
 - There are different people for each folder "Grupo_X". Each one have a folder with the name of the sensors used in the capturing session (LG/Iritech). Each sensor folder have 5 inner folders for each interval (in minutes) in the capturing session.
