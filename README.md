@@ -24,6 +24,9 @@ A health committee team evaluated the captured process before it started. A cons
 
 - 5 sessions of image capturing were done for each person at intervals of 00, 15, 30, 45 and 60 minutes after having ingested alcohol.
 - There are different people for each folder "Grupo_X". Each one have a folder with the name of the sensors used in the capturing session (LG/Iritech). Each sensor folder have 5 inner folders for each interval (in minutes) in the capturing session.
+
+# Annotated information.
+
 - Each folder of each session have a json file which have manual annotations of every region of interest of the eye (pupil, iris, sclera)
 - [VIA v2.0.5](https://www.robots.ox.ac.uk/~vgg/software/via/) was used to label each ROI of the eyes.
 - Each ROI of each image was labeled with distinct figures disposed in VIA program (polygon, ellipse, circle) specified in json files.
