@@ -32,6 +32,7 @@ A health committee team evaluated the captured process before it started. A cons
 - Ellipse figure have the center denoted as (x, y) coord, the minor and the major radii.
 - File "eye_attributes.json" correspond to region/file attribute of VIA program, needed to identify each ROI.
 
+![image](https://raw.githubusercontent.com/jedota/Iris_alcohol_classification/main/static/seg_image.png?token=GHSAT0AAAAAABSXZOPS6AZQBTYRJF72OGYGYX3VCHA)
 
 ### From image name "E_5_7_0_L_F_N_N_1994_3_2017.bmp" we can extract the following features:
 
@@ -43,8 +44,6 @@ A health committee team evaluated the captured process before it started. A cons
 - 1994 means the date of birth.
 - The number after date of birth is the corresponding frame of the video.
 - 2017 correspond to the capturing date.
-
-![image](https://raw.githubusercontent.com/jedota/Iris_alcohol_classification/main/static/seg_image.png?token=GHSAT0AAAAAABSXZOPS6AZQBTYRJF72OGYGYX3VCHA)
 
 
 # Set split
