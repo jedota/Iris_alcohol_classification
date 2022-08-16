@@ -27,6 +27,8 @@ A health committee team evaluated the captured process before it started. A cons
 
 # Annotated information.
 
+As an additional information, the coordinates of iris, pupil and sclera were included to be used in segmentation.
+
 - Each folder of each session have a json file which have manual annotations of every region of interest of the eye (pupil, iris, sclera)
 - [VIA v2.0.5](https://www.robots.ox.ac.uk/~vgg/software/via/) was used to label each ROI of the eyes.
 - Each ROI of each image was labeled with distinct figures disposed in VIA program (polygon, ellipse, circle) specified in json files.
