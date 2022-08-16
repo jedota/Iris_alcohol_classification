@@ -19,3 +19,8 @@
     ],
     "file_attributes": {}                               ######## -> Extra metadata # Non-used
 }
+
+The notebook format_alcohol_segmentation.ipynb can be used to obtain 
+the segmentation dataset with the train/test/val splits already separated. 
+Then, this database format can be loaded into memory with the 
+EyeDataset class of the utils/generator.py file.
