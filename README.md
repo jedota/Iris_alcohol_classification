@@ -59,7 +59,25 @@ ICPR 2022 - Data will available in the next days
 
 # Cited
 If you use MAAL dataset, please cite the following paper:
-available in the next days
+'''
+@article{https://doi.org/10.48550/arxiv.2209.01657,
+  doi = {10.48550/ARXIV.2209.01657},
+  
+  url = {https://arxiv.org/abs/2209.01657},
+  
+  author = {Tapia, Juan and Droguett, Enrique Lopez and Busch, Christoph},
+  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Alcohol Consumption Detection from Periocular NIR Images Using Capsule Network},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
+}
+'''
 
 
 # License
