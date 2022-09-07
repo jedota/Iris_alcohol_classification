@@ -16,6 +16,7 @@ A total of 600 images of volunteers not under the influence of alcohol were capt
 
 
 # Database link
+
 Request the dataset to: juan.tapia-farias@h-da.de or jtapiafarias@ing.uchile.cl
 
 A health committee team evaluated the captured process before it started. A consent form was used to capture images for all the volunteers as requested by the health committee.
@@ -55,7 +56,6 @@ As an additional information, the coordinates of iris, pupil and sclera were inc
 - Train, test and validation set are disposed in text files into [set_split](https://github.com/Choapinus/alcohol-db/tree/master/set_split) folder
 
 </p>
-ICPR 2022 - Data will available in the next days
 
 
 # Cited
