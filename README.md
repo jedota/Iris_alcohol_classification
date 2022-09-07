@@ -62,6 +62,7 @@ ICPR 2022 - Data will available in the next days
 If you use MAAL dataset, please cite the following paper:
 
 @article{https://doi.org/10.48550/arxiv.2209.01657,
+
   doi = {10.48550/ARXIV.2209.01657},
   
   url = {https://arxiv.org/abs/2209.01657},
