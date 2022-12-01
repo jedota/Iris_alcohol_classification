@@ -22,6 +22,7 @@ A total of 600 images of volunteers not under the influence of alcohol were capt
 Request the dataset to: juan.tapia-farias@h-da.de or jtapiafarias@ing.uchile.cl.
 
 -Only for institucional email from University. Requirements with personal emails will not be processed.
+
 -IEEE dataPort: https://ieee-dataport.org/documents/nir-iris-images-under-alcohol-effect
 
 A health committee team evaluated the captured process before it started. A consent form was used to capture images for all the volunteers as requested by the health committee.
