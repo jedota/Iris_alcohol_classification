@@ -18,6 +18,7 @@ A total of 600 images of volunteers not under the influence of alcohol were capt
 # Database link
 
 Request the dataset to: juan.tapia-farias@h-da.de or jtapiafarias@ing.uchile.cl
+Only for institucional email from University. Requirements with personal emails will no process.
 
 A health committee team evaluated the captured process before it started. A consent form was used to capture images for all the volunteers as requested by the health committee.
 
@@ -61,24 +62,15 @@ As an additional information, the coordinates of iris, pupil and sclera were inc
 # Cited
 If you use MAAL dataset, please cite the following paper:
 ```
-@article{https://doi.org/10.48550/arxiv.2209.01657,
-
-  doi = {10.48550/ARXIV.2209.01657},
-  
-  url = {https://arxiv.org/abs/2209.01657},
-  
-  author = {Tapia, Juan and Droguett, Enrique Lopez and Busch, Christoph},
-  
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {Alcohol Consumption Detection from Periocular NIR Images Using Capsule Network},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
-}
+@INPROCEEDINGS{9956573,
+  author={Tapia, Juan and Droguett, Enrique Lopez and Busch, Christoph},
+  booktitle={2022 26th International Conference on Pattern Recognition (ICPR)}, 
+  title={Alcohol Consumption Detection from Periocular NIR Images Using Capsule Network}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={959-966},
+  doi={10.1109/ICPR56361.2022.9956573}}
 ```
 
 
