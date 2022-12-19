@@ -21,7 +21,7 @@ A total of 600 images of volunteers not under the influence of alcohol were capt
 
 Request the dataset to: juan.tapia-farias@h-da.de or jtapiafarias@ing.uchile.cl.
 
--Only for institucional emails (University). 
+-Only for institucional emails belongs to advisor or professors (University).
 
 Requirements with personal emails will not be processed.
 
