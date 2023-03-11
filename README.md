@@ -66,7 +66,7 @@ As an additional information, the coordinates of iris, pupil and sclera were inc
 </p>
 
 
-# Cited
+# Citation
 If you use MAAL dataset, please cite the following paper:
 ```
 @INPROCEEDINGS{9956573,
