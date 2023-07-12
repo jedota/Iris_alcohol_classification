@@ -23,7 +23,7 @@ Question about the dataset to: juan.tapia-farias@h-da.de or jtapiafarias@ing.uch
 
 -Only for research purpose and institucional emails belongs to advisor or professors (University).
 
--IEEE dataPort: https://ieee-dataport.org/documents/nir-iris-images-under-alcohol-effect
+Downloading -IEEE dataPort: https://ieee-dataport.org/documents/nir-iris-images-under-alcohol-effect
 
 A health committee team evaluated the captured process before it started. A consent form was used to capture images for all the volunteers as requested by the health committee.
 
